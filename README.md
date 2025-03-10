@@ -1,1 +1,7 @@
-RUN with cmd: ```python app.py 5 10 --debug```
+- Run the Python Code: ```python3 main.py```
+- Expected Output:
+```
+Hello, Alice!
+Hello, Bob!
+Hello, Charlie!
+```
